@@ -1,0 +1,50 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Tulio Toledo/Documents/GitHub/TimeIsOut_2/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Tulio Toledo/Documents/GitHub/TimeIsOut_2/Content/TimeIsOut/Actors/InitialDoor.uasset",
+				"C:/Users/Tulio Toledo/Documents/GitHub/TimeIsOut_2/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/Tulio Toledo/Documents/GitHub/TimeIsOut_2/Content/TimeIsOut/Materials/enemymaterial.uasset",
+				"C:/Users/Tulio Toledo/Documents/GitHub/TimeIsOut_2/Content/TimeIsOut/Levels/Level_2.umap",
+				"C:/Users/Tulio Toledo/Documents/GitHub/TimeIsOut_2/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Tulio Toledo/Documents/GitHub/TimeIsOut_2/Content/TimeIsOut/UI/Player_HUD.uasset",
+				"C:/Users/Tulio Toledo/Documents/GitHub/TimeIsOutToledoTulio/Content/TimeIsOut/Levels/Level_3.umap",
+				"C:/Users/Tulio Toledo/Documents/GitHub/TimeIsOutToledoTulio/Content/TimeIsOut/Levels/Level_2.umap",
+				"C:/Users/Tulio Toledo/Documents/GitHub/TimeIsOutToledoTulio/Content/TimeIsOut/Actors/WaterDead.uasset",
+				"C:/Users/Tulio Toledo/Documents/GitHub/TimeIsOutToledoTulio/Content/TimeIsOut/Particles/fum.uasset",
+				"C:/Users/Tulio Toledo/Documents/GitHub/TimeIsOutToledoTulio/Content/FPWeapon/Materials/BaseMaterial.uasset",
+				"C:/Users/Tulio Toledo/Documents/GitHub/TimeIsOutToledoTulio/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/Beakable_Master_MeshEmit.uasset",
+				"C:/Users/Tulio Toledo/Documents/GitHub/TimeIsOutToledoTulio/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/Beakable_No_Rim_MeshEmit_INST.uasset",
+				"C:/Users/Tulio Toledo/Documents/GitHub/TimeIsOutToledoTulio/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Tulio Toledo/Documents/GitHub/TimeIsOutToledoTulio/Content/TimeIsOut/Materials/EnemyMaterial.uasset",
+				"C:/Users/Tulio Toledo/Documents/GitHub/TimeIsOutToledoTulio/Content/FPWeapon/Materials/FirstPersonProjectileMaterial.uasset",
+				"C:/Users/Tulio Toledo/Documents/GitHub/TimeIsOutToledoTulio/Content/TimeIsOut/Materials/M_RedScreen.uasset",
+				"C:/Users/Tulio Toledo/Documents/GitHub/TimeIsOutToledoTulio/Content/InfinityBladeGrassLands/Maps/ElvenRuins.umap",
+				"C:/Users/Tulio Toledo/Documents/GitHub/TimeIsOutToledoTulio/Content/FirstPerson/Blueprints/MainMenu.uasset",
+				"C:/Users/Tulio Toledo/Documents/GitHub/TimeIsOutToledoTulio/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
+				"C:/Users/Tulio Toledo/Documents/GitHub/TimeIsOutToledoTulio/Content/TimeIsOut/Levels/MainMenuLevel.umap",
+				"C:/Users/Tulio Toledo/Documents/GitHub/TimeIsOutToledoTulio/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/Tulio Toledo/Documents/GitHub/TimeIsOutToledoTulio/Content/TimeIsOut/UI/MainMenu.uasset",
+				"C:/Users/Tulio Toledo/Documents/GitHub/TimeIsOutToledoTulio/Content/TimeIsOut/Blueprints/MainMenuGameMode.uasset",
+				"C:/Users/Tulio Toledo/Documents/GitHub/TimeIsOutToledoTulio/Content/TimeIsOut/UI/RedScreen.uasset",
+				"C:/Users/Tulio Toledo/Documents/GitHub/TimeIsOutToledoTulio/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/Tulio Toledo/Documents/GitHub/TimeIsOutToledoTulio/Content/TimeIsOut/Blueprints/MyGameInstance.uasset",
+				"C:/Users/Tulio Toledo/Documents/GitHub/TimeIsOutToledoTulio/Content/TimeIsOut/Particles/nieve.uasset",
+				"C:/Users/Tulio Toledo/Documents/GitHub/TimeIsOutToledoTulio/Content/TimeIsOut/Levels/Level_1.umap",
+				"C:/Users/Tulio Toledo/Documents/GitHub/TimeIsOutToledoTulio/Content/TimeIsOut/Actors/VictoryZone.uasset",
+				"C:/Users/Tulio Toledo/Documents/GitHub/TimeIsOutToledoTulio/Content/TimeIsOut/Actors/VictoryZone2.uasset",
+				"C:/Users/Tulio Toledo/Documents/GitHub/TimeIsOutToledoTulio/Content/TimeIsOut/Blueprints/SaveGameReal.uasset",
+				"C:/Users/Tulio Toledo/Documents/GitHub/TimeIsOutToledoTulio/Content/TimeIsOut/Materials/FloorObstacle.uasset",
+				"C:/Users/Tulio Toledo/Documents/GitHub/TimeIsOutToledoTulio/Content/TimeIsOut/Actors/Moving_obstacle.uasset",
+				"C:/Users/Tulio Toledo/Documents/GitHub/TimeIsOutToledoTulio/Content/TimeIsOut/Blueprints/SaveGame.uasset",
+				"C:/Users/Tulio Toledo/Documents/GitHub/TimeIsOutToledoTulio/Content/TimeIsOut/Levels/MainMenu.umap",
+				"C:/Users/Tulio Toledo/Documents/GitHub/TimeIsOutToledoTulio/Content/TimeIsOut/Levels/GameMenu/MainMenu.umap",
+				"C:/Users/Tulio Toledo/Documents/GitHub/TimeIsOutToledoTulio/Content/TimeIsOut/Levels/GameMenu/MainMenuWidget.uasset"
+			]
+		}
+	]
+}
